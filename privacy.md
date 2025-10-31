@@ -1,29 +1,40 @@
----
-layout: page
-title: Privacy Policy
----
+# Privacy Policy
 
-Effective date: 2025-10-30
+Last updated: October 31, 2025  
+Author: Can Engiloğlu  
 
-Global Market Watch does not collect, sell or share personal information.
+Thank you for using **Global Market Watch** (the "Extension").
 
-What we store
-- Extension preferences (theme, favorites, notification settings) via chrome.storage.sync
-- No account identifiers, emails or browsing history
+This privacy policy explains how your data is handled when using this Chrome Extension.
 
-What we access
-- Public market/holiday data endpoints to compute opening/closing times
-- Chrome permissions used:
-  - notifications: show alerts before open/close
-  - alarms: periodic background checks for schedules
-  - storage: save your preferences
+## 1. Data Collection
+- This extension **does not collect, transmit, or store any personal information** on external servers.  
+- All user preferences (theme, timezone, notification settings, and favorites) are stored **locally** using Chrome Storage APIs (`chrome.storage.local` or `chrome.storage.sync`).
+- No cookies, analytics trackers, or third-party SDKs are used.
 
-Data sharing
-- No third‑party analytics or trackers
-- No data sent to our servers
+## 2. Anonymous Data (Optional)
+- If you enable anonymous analytics, we may collect **non-identifiable usage data** such as feature usage frequency or performance metrics to improve the extension.
+- These analytics do **not** include any personal information, account details, or identifiable data.
 
-Security
-- Minimal permissions, local storage, and Chrome’s sandboxing
+## 3. Permissions
+This extension uses the following Chrome permissions:
+- `storage`: to save your settings and preferences.
+- `alarms`: to schedule market open/close notifications.
+- `notifications`: to display reminders for market events.
+- `https://www.alphavantage.co/*`: to fetch market data (read-only).
 
-Contact
-- For questions or removal requests, open an issue on the repository or contact: support@khoonsu.dev
+## 4. Data Sharing
+- We do **not** sell, share, or disclose any information to third parties.
+- Any data remains fully within the user’s browser environment.
+
+## 5. User Control
+You can:
+- Clear all saved preferences anytime via the extension settings.
+- Revoke notification permissions via Chrome’s site settings.
+- Uninstall the extension to remove all stored data.
+
+## 6. Contact
+
+canengiloglu53@gmail.com
+For any questions or requests regarding privacy, please contact:  
+📧 [your.email@example.com]
