@@ -1,22 +1,26 @@
----
-layout: page
-title: Terms & Conditions
----
+# Terms of Use
 
-Effective date: 2025-10-30
+Last updated: October 31, 2025  
 
-Use of Global Market Watch implies acceptance of these terms.
+By using **Global Market Watch** (the "Extension"), you agree to the following terms:
 
-Service
-- The extension provides market hours and related information on a best‑effort basis
-- Information may be delayed or inaccurate; always verify with official sources
+## 1. Usage
+- This extension is provided **for informational purposes only**.
+- Market data and holiday information may not always be accurate or up to date.
+- The author is not responsible for any financial decisions made based on data from the extension.
 
-Liability
-- Provided "as is" without warranties of any kind
-- We are not liable for losses arising from use of the information
+## 2. License
+- The source code is available under the [MIT License](./LICENSE) (if you use MIT).  
+- Users may view, modify, and use the extension for personal, non-commercial purposes unless otherwise specified.
 
-Changes
-- We may modify these terms at any time; updates will be posted here
+## 3. Limitation of Liability
+- The author makes no warranties regarding accuracy, performance, or availability.
+- You use this extension **at your own risk**.  
+- The author will not be liable for any damages resulting from use or inability to use the extension.
 
-Contact
-- Questions: open an issue on the repository or contact: support@khoonsu.dev
+## 4. Modifications
+- The developer reserves the right to modify or discontinue the extension at any time without notice.
+
+## 5. Contact
+For any inquiries:  
+📧 canengiloglu53@gmail.com
