@@ -34,7 +34,5 @@ You can:
 - Uninstall the extension to remove all stored data.
 
 ## 6. Contact
-
-canengiloglu53@gmail.com
 For any questions or requests regarding privacy, please contact:  
-📧 [your.email@example.com]
+📧 canengiloglu53@gmail.com
